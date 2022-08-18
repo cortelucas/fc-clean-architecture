@@ -1,0 +1,20 @@
+{
+  "name": "fc-clean-architecture",
+  "version": "1.0.0",
+  "description": "Developed as a learning experience",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortelucas/fc-clean-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cortelucas/fc-clean-architecture/issues"
+  },
+  "homepage": "https://github.com/cortelucas/fc-clean-architecture#readme"
+}
